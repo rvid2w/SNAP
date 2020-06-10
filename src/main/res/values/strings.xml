@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Test</string>
+    <string name="tag_the_image" translatable="false">Tag the image</string>
+    <string name="tag_button" translatable="false">TAG</string>
+    <string name="enter_the_tag">Enter the tag</string>
+    <string name="tag">TAG</string>
+    <string-array name="dropDownMenuChoices">
+        <item>Web-Link</item>
+        <item>Mathematical-Formulas</item>
+        <item>Plain-Text</item>
+        <item>Mathematical-Symbols</item>
+        <item>Email-ID</item>
+        <item>Others</item>
+    </string-array>
+</resources>
